@@ -3,4 +3,4 @@
 
  Repositório criando em uma aula do curso em video
 
-Essa linha eu adicionei diretamente do site! Que impressioanent!
+Essa linha eu adicionei diretamente do site! Que impressioanente!
